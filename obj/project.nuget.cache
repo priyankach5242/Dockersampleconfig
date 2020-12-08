@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQN/dvCPMZzNsmihZrJkD0uyD/hG0bPeCXWpCjVWcR4oirF4owBDZxl2GLjszqqCSHEqyATZCuJzJMGxY7xffg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAVI KUMAR\\Desktop\\Stimulation Project\\DockerDemo\\Dockersampleconfig\\Dockersampleconfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAVI KUMAR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
